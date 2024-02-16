@@ -14,7 +14,7 @@ function Header() {
     <ul className='nav'>
         <Navlist Name="Home" _id = "1" link = "/"  active="true" />
         <Navlist Name="MyList" _id = "2" link = "/MyList"  active="false" />
-        <Navlist Name="Tv Series" _id = "3" link = "/Tv_Series"  active="false" />
+        <Navlist Name="Series" _id = "3" link = "/Tv_Series"  active="false" />
     </ul>
     
    </header>

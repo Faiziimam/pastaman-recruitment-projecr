@@ -116,4 +116,10 @@
     float: right;
 }
 
-
+@media only screen and (max-width: 600px) {
+    .listitem {
+        /* height: 0; */
+        overflow: hidden;
+        object-fit: fill;
+    }
+  }
